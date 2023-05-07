@@ -26,3 +26,5 @@ public class singleNumber {
         System.out.println("The single number in the array is: " + singleNum);
     }
 }
+// TC O(n)
+//SC O(1)
