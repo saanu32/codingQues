@@ -38,3 +38,5 @@ public class FindDisappearedNumbers {
         System.out.println("Numbers missing in the array: " + missingNumbers);
     }
 }
+// TC O(n)
+// SC O(1)
